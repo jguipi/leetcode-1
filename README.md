@@ -1,4 +1,28 @@
-# Leetcode
+# SRE NA Leetcode
+
+![wizard](https://github.com/kc-panoramix/leetcode/blob/main/assets/Picture1.gif)
+
+## Welcome
+
+•	Problem will be done on leetcode
+•	System design question might be part of this repo
+•	Coffee MIGHT be useful
+•	We will use Mural for drawing
+
+Best of luck in our quest to become wizard
+
+Our solution repo:
+https://github.com/kc-panoramix/leetcode 
+
+Mural Link:
+https://app.mural.co/invitation/mural/sapstarter8122/1628781145845?sender=justeguipi9258&key=15862f37-844e-4adb-92bc-c17ec50bc5be 
+
+Leetcode : 
+https://leetcode.com/ 
+
+System design basics: 
+https://www.freecodecamp.org/news/systems-design-for-interviews/ 
+
 
 ## Helper
 Big O calculator : https://shunnarski.github.io/BigO.html
