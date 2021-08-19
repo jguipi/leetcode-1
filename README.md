@@ -1,6 +1,7 @@
 # Leetcode
 
-To make it easier, Javascript might be the default language we use.
+## Helper
+Big O calculator : https://shunnarski.github.io/BigO.html
 
 ## Problems & Solutions
 
