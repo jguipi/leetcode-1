@@ -48,5 +48,3 @@ var addTwoNumbers = function (l1, l2) {
   }
   return headPtr;
 };
-
-console.log(addTwoNumbers(new ListNode(2, [4, 3]), new ListNode(5, [6, 4])));
